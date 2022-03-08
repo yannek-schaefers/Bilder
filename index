@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css"/>
+		<title>>11.Klassprojekt</title>
+		<meta charset ="utf-8">
+	</head>
+
+	<body>
+		<div id="wrapper">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="kurzer%20name.pdf" download="kurzer_name.pdf">download pdf file</a></li>
+						<li><a href="kontakt.html">Kontakt</a></li>
+					</ul>
+
+				</nav>
+
+			</header>
+
+
+
+
+
+
+			<section>
+
+				<h1>Klimawandel-Lösungsansätze</h1>
+
+
+
+				<div class= "article">
+					<img src="sourcepic1.jpg">
+          <img src="sourcepic2.jpg">
+					<p>dies ist ein "working progress" projekt über den <a href="https://en.wikipedia.org/wiki/Climate_change_(general_concept)">Klimawandel</a>
+	        , und wie man ihn bekämpfen kann.</p>
+
+					<p>Politiker und Medien, insbesondere in den USA, behaupten häufig, die Klimawissenschaft sei höchst ungewiss. Einige haben dies als Argument gegen die Einführung strenger Maßnahmen zur Reduzierung der Treibhausgasemissionen herangezogen. Darunter Unternehmen, deren Einnahmen durch die Kontrolle der Kohlendioxidemissionen beeinträchtigt werden könnten. All dies deutet darauf hin, dass in der wissenschaftlichen Gemeinschaft erhebliche Meinungsverschiedenheiten über die Realität des anthropogenen Klimawandels bestehen könnten. Allerdings ist dies nicht der Fall... <a href="kurzer%20name.pdf" download="kurzer_name.pdf">weiter lesen</a></p>
+
+
+			</section>
+
+
+
+			<footer>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="kurzer%20name.pdf" download="kurzer_name.pdf">download pdf file</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
+				</ul>
+				<p><a href="#">&copy:2019 yannek</a></p>
+			</footer>
+		</div>
+	</body>
+
+</html>
